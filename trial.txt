@@ -7,6 +7,7 @@ here
 i am learning commits now
 changing stuff 
 changing stuff again
+forgot to add a name
 3
 5
 6
