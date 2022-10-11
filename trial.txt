@@ -1,11 +1,15 @@
-hey 
+hey
+hello
 just 
 random
 words
 here
+i am learning commits now
+changing stuff 
 3
 5
 6
+7
 3
 bunch of numbers
 they dont mean anything
